@@ -34,3 +34,6 @@ Thumbs.db
 # Temporary test / capture scripts
 capture.js
 take-screenshot.ps1
+
+.vercel
+client/.vercel
